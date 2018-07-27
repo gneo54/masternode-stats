@@ -1,0 +1,15 @@
+[
+    {
+    "mnName": "Henga (NGH) MN1",
+    "IsLCW": true,
+    "lcwURL": "https://www.livecoinwatch.com/price/Henga-NGH",
+    "ceURL":  "http://explorer.henga.io/ext/getbalance/HHj9a3mGZogXpFsT8kZtrFs4xqvJLfJdpp"
+},
+{
+    "mnName": "Faust (FAU) mn_name", 
+    "IsMNO": false,
+    "lcwURL": "",
+    "mnoURL": "https://masternodes.online/currencies/FAU/",
+    "ceURL":  "http://explorer.faust.cash/ext/getbalance/FNn2tJsaZLNK47to3GLRSF2uhaMjZPXWya"
+}
+]
